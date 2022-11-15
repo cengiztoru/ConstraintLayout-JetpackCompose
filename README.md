@@ -7,3 +7,8 @@ The below complex screen fully designed with constraint layout without any neste
 <br/>
 
 <img width="1160" alt="github" src="https://user-images.githubusercontent.com/28221219/201528333-2a141fed-8dab-4517-a5ce-a94e396eeadf.png"> 
+<br/>
+
+# ⚠️ Warning ⚠️
+I would like to add the warning I mentioned in the article here, too. <br/>
+> In the repo I didn't seperate composable's and I didn't use row, column. The whole screen in one file. Keep in mind that, this is not a good practice for real life. This is a just demonstration for usage of ConstraintLayout. We should seperate our composables in order to resusablitiy, readability, testability etc.
